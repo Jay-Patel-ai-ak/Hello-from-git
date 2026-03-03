@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-Feature 1 Change
-Feature 1 different Change
 
-=======
-Base line
->>>>>>> e0e4b40 (add conflict file)
+Feature 1 Change
+Feature 2 different Change
+Feature 3 Special change
+
